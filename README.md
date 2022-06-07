@@ -11,12 +11,14 @@ It adds a sidebar layout to your jetstream application and some useful component
 
 To learn all about it, head over to <a href="https://jetbar.netlify.app" target="_blank"> the extensive documentation.</a>
 
+This unofficial fork ArielMejiaDev/jetbar for support new laravel versions.
+
 ## 👨‍💻 Installation
 
 You can install the package via composer:
 
 ```bash
-composer require arielmejiadev/jetbar --dev
+composer require bigenergy/jetbar dev-master
 ```
 
 ## 📦 Usage
