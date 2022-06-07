@@ -1,17 +1,23 @@
 {
-    "name": "arielmejiadev/jetbar",
-    "description": "It adds a sidebar dashboard theme for Laravel applications with Jetstream.",
+    "name": "bigenergy/jetbar",
+    "description": "It adds a sidebar dashboard theme for Laravel applications with Jetstream. Fork ArielMejiaDev/jetbar repo for laravel 9+ support",
     "keywords": [
         "arielmejiadev",
-        "jetbar"
+        "jetbar",
+        "bigenergy"
     ],
-    "homepage": "https://github.com/arielmejiadev/jetbar",
+    "homepage": "https://github.com/bigenergy/jetbar",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Ariel Mejia Dev",
             "email": "arielmejiadev@gmail.com",
+            "role": "Developer"
+        },
+         {
+            "name": "Big Energy",
+            "email": "bigenergyyy@gmail.com",
             "role": "Developer"
         }
     ],
