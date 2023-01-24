@@ -2,10 +2,10 @@
 
 # 🚀 Blade & VueJS Components for Jetstream on Livewire & InertiaJS stacks.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/arielmejiadev/jetbar.svg?style=flat-square)](https://packagist.org/packages/arielmejiadev/jetbar)
-[![Build Status](https://img.shields.io/travis/arielmejiadev/jetbar/master.svg?style=flat-square)](https://travis-ci.org/arielmejiadev/jetbar)
-[![Quality Score](https://img.shields.io/scrutinizer/g/arielmejiadev/jetbar.svg?style=flat-square)](https://scrutinizer-ci.com/g/arielmejiadev/jetbar)
-[![Total Downloads](https://img.shields.io/packagist/dt/arielmejiadev/jetbar.svg?style=flat-square)](https://packagist.org/packages/arielmejiadev/jetbar)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/bigenergy/jetbar.svg?style=flat-square)](https://packagist.org/packages/arielmejiadev/jetbar)
+[![Build Status](https://img.shields.io/travis/bigenergy/jetbar/master.svg?style=flat-square)](https://travis-ci.org/arielmejiadev/jetbar)
+[![Quality Score](https://img.shields.io/scrutinizer/g/bigenergy/jetbar.svg?style=flat-square)](https://scrutinizer-ci.com/g/arielmejiadev/jetbar)
+[![Total Downloads](https://img.shields.io/packagist/dt/bigenergy/jetbar.svg?style=flat-square)](https://packagist.org/packages/arielmejiadev/jetbar)
 
 It adds a sidebar layout to your jetstream application and some useful components to accelerate your development even more.
 
