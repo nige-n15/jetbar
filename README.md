@@ -45,11 +45,3 @@ If you discover any security related issues, please email arielmejiadev@gmail.co
 ## 📓 License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Support the project
-
-Hey 👋 thanks for considering making a donation, with these donations I can continue working to contribute to opensource projects.
-
-<a href="https://www.buymeacoffee.com/arielmejiadev">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=arielmejiadev&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00">
-</a>
